@@ -1,0 +1,189 @@
+TEAMS
+Team: Liverpool
+Team Manager: John Brown
+Wins: 1
+Draws: 0
+Losses: 0
+Home Ground: Anfield Stadium
+Capacity: 60000
+	Player: Mohamed Salah
+	Position: FW
+	Employment Status: Full-time
+	Pay: 50000
+	Preferred Formation: 4-4-2
+	Goals: 2
+	Assists: 6
+	Cards: 1
+
+	Player: Alisson Becker
+	Position: MF
+	Employment Status: Full-time
+	Pay: 40000
+	Preferred Formation: 4-3-2-1
+	Goals: 1
+	Assists: 0
+	Cards: 0
+
+	Player: Joe Gomez
+	Position: DF
+	Employment Status: Part-time
+	Pay: 30000
+	Preferred Formation: 4-4-2
+	Goals: 2
+	Assists: 0
+	Cards: 0
+
+
+Team: Everton
+Team Manager: Arnold Swagger
+Wins: 0
+Draws: 0
+Losses: 2
+Home Ground: Goodison Park Stadium
+Capacity: 40000
+	Player: Jordan Pickford
+	Position: GK
+	Employment Status: Full-time
+	Pay: 40000
+	Preferred Formation: 4-3-2-1
+	Goals: 0
+	Assists: 0
+	Cards: 0
+
+	Player: Beto Anderson
+	Position: FW
+	Employment Status: Part-time
+	Pay: 20000
+	Preferred Formation: 4-4-2
+	Goals: 1
+	Assists: 0
+	Cards: 0
+
+	Player: Jack Harrison
+	Position: FW
+	Employment Status: Full-time
+	Pay: 40000
+	Preferred Formation: 4-4-2
+	Goals: 3
+	Assists: 1
+	Cards: 0
+
+
+Team: Manchester United
+Team Manager: Bobby Ellis
+Wins: 1
+Draws: 0
+Losses: 0
+Home Ground: Old Trafford Stadium
+Capacity: 70000
+	Player: Leny Yoro
+	Position: DF
+	Employment Status: Full-time
+	Pay: 60000
+	Preferred Formation: 4-3-2-1
+	Goals: 1
+	Assists: 0
+	Cards: 0
+
+	Player: Amad Diallo
+	Position: FW
+	Employment Status: Part-time
+	Pay: 20000
+	Preferred Formation: 4-2-2
+	Goals: 1
+	Assists: 1
+	Cards: 0
+
+	Player: Marcus Rashford
+	Position: FW
+	Employment Status: Full-time
+	Pay: 50000
+	Preferred Formation: 4-2-2
+	Goals: 1
+	Assists: 1
+	Cards: 1
+
+MATCHES
+Week Played: first
+Home Team: Liverpool
+Away Team: Everton
+Score: 2-0
+Goal Scorers:
+	Mohamed Salah, Alisson Becker
+	Joe Gomez, Mohamed Salah
+
+Substitutions:
+	Beto Anderson, Jack Harrison
+
+Cards:
+	Joe Gomez, Yellow
+
+Week Played: second
+Home Team: Manchester United
+Away Team: Liverpool
+Score: 2-3
+Goal Scorers:
+	Leny Yoro, Amad Diallo
+	Amad Diallo, Leny Yoro
+	Mohamed Salah, Joe Gomez
+	Alisson Becker, Joe Gomez
+	Joe Gomez, Alisson Becker
+
+Substitutions:
+	Marcus Rashford, Amad Diallo
+
+Cards:
+	Marcus Rashford, Red
+
+Week Played: third
+Home Team: Everton
+Away Team: Manchester United
+Score: 0-2
+Goal Scorers:
+	Leny Yoro, Amad Diallo
+	Marcus Rashford, Amad Diallo
+
+Substitutions:
+	Beto Anderson, Jack Harrison
+
+Cards:
+	Marcus Rashford, Yellow
+
+COACHES
+Coach: Mark Smith
+Team: Liverpool
+Employment Status: Part-time
+Pay: 10000
+
+Coach: Sam Tomlinson
+Team: Everton
+Employment Status: Full-time
+Pay: 10000
+
+Coach: Ella Brown
+Team: Manchester United
+Employment Status: Full-time
+Pay: 12000
+
+REFEREES
+Referee: Tom Campbell
+Employment Status: Full-time
+Pay: 15000
+
+Referee: Matt White
+Employment Status: Part-time
+Pay: 13000
+
+Referee: Emma Howard
+Employment Status: Full-time
+Pay: 16000
+
+UNAFFILIATED PLAYERS
+Player: Matthew Tomlinson
+Position: FW
+Employment Status: Full-time
+Pay: 10000
+Preferred Formation: 4-3-2-1
+Goals: 4
+Assists: 5
+Cards: 3
